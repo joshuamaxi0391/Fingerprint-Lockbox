@@ -17,7 +17,7 @@ This project implements a secure fingerprint-activated lockbox using an **ESP32-
 
 ## 🧩 Components Used
 
-| Component               | Details                         |
+| Components              | Details                         |
 |------------------------|----------------------------------|
 | Microcontroller        | ESP32-CAM (AI-Thinker module)    |
 | Fingerprint Sensor     | FlashTree FPM11A (UART 6-pin)    |
