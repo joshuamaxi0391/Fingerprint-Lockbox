@@ -42,7 +42,7 @@ This project implements a secure fingerprint-activated lockbox using an **ESP32-
 ## 📹 Demo Video
 
 A short video demonstration of the project is available on YouTube.  
-🔗 **[Watch the demo (Unlisted)](https://youtu.be/your-unlisted-video-id)**
+🔗 **[Watch the demo (Unlisted)](https://youtube.com/shorts/HpiAbvv0W3Y)**
 
 > Note: The video is unlisted and intended for instructors, reviewers, or collaborators with the link.
 
